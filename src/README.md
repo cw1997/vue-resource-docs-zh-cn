@@ -1,5 +1,5 @@
-# vue-resource-docs-zh-cn
-vue-resource v1.0.3官方文档中文翻译
+# Documentation
+# 文档
 
 - 配置 [Configuration](config.md)
 - HTTP请求与响应 [HTTP Requests/Response](http.md)
