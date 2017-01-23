@@ -1,5 +1,4 @@
 # API参考
-
 ## 请求
 
 ```js
@@ -26,7 +25,6 @@
   respondWith(any: body, object: options) (Response)
 }
 ```
-
 ## 响应
 
 ```js
@@ -48,7 +46,6 @@
   json() (Promise)
 }
 ```
-
 ## 头部
 
 ```js
@@ -69,6 +66,3 @@
   forEach(function: callback, any: thisArg) (void)
 }
 ```
-
-
-

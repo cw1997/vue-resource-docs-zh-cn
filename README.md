@@ -6,3 +6,6 @@ vue-resource v1.0.3官方文档中文翻译
 - 创建资源 [Creating Resources](resource.md)
 - 编码规范 [Code Recipes](recipes.md)
 - API参考 [API Reference](api.md)
+
+
+本文档源码地址：https://github.com/cw1997/vue-resource-docs-zh-cn
